@@ -1,1 +1,2 @@
-# madisonwong210.github.io
+# Madison Wong
+This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
