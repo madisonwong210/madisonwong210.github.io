@@ -8,4 +8,9 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 <img width="1440" alt="Screenshot 2023-09-30 at 11 28 51 AM" src="https://github.com/madisonwong210/madisonwong210.github.io/assets/58918746/d1c4e902-56c5-4fd1-af4c-56f3773ec559">
 <img width="1440" alt="Screenshot 2023-09-30 at 11 28 39 AM" src="https://github.com/madisonwong210/madisonwong210.github.io/assets/58918746/5da98c41-218e-4178-a9ee-93e3c42053b8">
 
+## Activity 3
+<img width="1440" alt="Screenshot 2023-09-30 at 11 50 16 AM" src="https://github.com/madisonwong210/madisonwong210.github.io/assets/58918746/fae79a98-56fa-4ae2-9dc3-56d3e0a61a26">
+<img width="1440" alt="Screenshot 2023-09-30 at 11 49 55 AM" src="https://github.com/madisonwong210/madisonwong210.github.io/assets/58918746/4631c775-916e-4621-a064-bba30e7da4c9">
+
+
 
